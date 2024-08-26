@@ -25,3 +25,11 @@ Visual Feedback:
 - Open Cells: Cells being explored during the search will turn white.
 - Closed Cells: Cells that have been fully explored and cannot be part of the path will turn gray.
 - Path: Once the path is found, it will be highlighted in red.
+
+# A* Algorithm
+
+![Website Look](https://github.com/LakshayD02/FullStack_SaaS_ChatBot_CipherGPT/blob/main/CipherGPT%20Homer.png) <br/>
+
+# Breadth First Search (BFS)
+
+![Website Look](https://github.com/LakshayD02/FullStack_SaaS_ChatBot_CipherGPT/blob/main/Chat%20Interface.png)
