@@ -32,4 +32,4 @@ Visual Feedback:
 
 # Breadth First Search (BFS)
 
-![Website Look](https://github.com/LakshayD02/FullStack_SaaS_ChatBot_CipherGPT/blob/main/Chat%20Interface.png)
+![BFS](https://github.com/LakshayD02/Pathfinding_Visualization_Tool_Python/blob/main/BFS.png)
