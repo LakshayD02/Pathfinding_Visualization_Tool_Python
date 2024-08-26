@@ -28,7 +28,7 @@ Visual Feedback:
 
 # A* Algorithm
 
-![Website Look](https://github.com/LakshayD02/FullStack_SaaS_ChatBot_CipherGPT/blob/main/CipherGPT%20Homer.png) <br/>
+![A* Algorithm](https://github.com/LakshayD02/Pathfinding_Visualization_Tool_Python/blob/main/A-Star%20Algorithm.png) <br/>
 
 # Breadth First Search (BFS)
 
